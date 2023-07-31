@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\ТутИграНеТрогать\ABOBA1000-7\ABOBA\bin\Debug\ABOBA.exe.config
+C:\Users\HP\Desktop\ТутИграНеТрогать\ABOBA1000-7\ABOBA\bin\Debug\ABOBA.exe
+C:\Users\HP\Desktop\ТутИграНеТрогать\ABOBA1000-7\ABOBA\bin\Debug\ABOBA.pdb
+C:\Users\HP\Desktop\ТутИграНеТрогать\ABOBA1000-7\ABOBA\obj\Debug\ABOBA.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ТутИграНеТрогать\ABOBA1000-7\ABOBA\obj\Debug\ABOBA.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\ТутИграНеТрогать\ABOBA1000-7\ABOBA\obj\Debug\ABOBA.Form1.resources
+C:\Users\HP\Desktop\ТутИграНеТрогать\ABOBA1000-7\ABOBA\obj\Debug\ABOBA.Properties.Resources.resources
+C:\Users\HP\Desktop\ТутИграНеТрогать\ABOBA1000-7\ABOBA\obj\Debug\ABOBA.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ТутИграНеТрогать\ABOBA1000-7\ABOBA\obj\Debug\ABOBA.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ТутИграНеТрогать\ABOBA1000-7\ABOBA\obj\Debug\ABOBA.exe
+C:\Users\HP\Desktop\ТутИграНеТрогать\ABOBA1000-7\ABOBA\obj\Debug\ABOBA.pdb

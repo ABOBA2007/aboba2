@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\ТутИграНеТрогать\Kalkylyator\bin\Debug\Kalkylyator.exe.config
+C:\Users\HP\Desktop\ТутИграНеТрогать\Kalkylyator\bin\Debug\Kalkylyator.exe
+C:\Users\HP\Desktop\ТутИграНеТрогать\Kalkylyator\bin\Debug\Kalkylyator.pdb
+C:\Users\HP\Desktop\ТутИграНеТрогать\Kalkylyator\obj\Debug\Kalkylyator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ТутИграНеТрогать\Kalkylyator\obj\Debug\Kalkylyator.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\ТутИграНеТрогать\Kalkylyator\obj\Debug\Kalkylyator.Form1.resources
+C:\Users\HP\Desktop\ТутИграНеТрогать\Kalkylyator\obj\Debug\Kalkylyator.Properties.Resources.resources
+C:\Users\HP\Desktop\ТутИграНеТрогать\Kalkylyator\obj\Debug\Kalkylyator.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ТутИграНеТрогать\Kalkylyator\obj\Debug\Kalkylyator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ТутИграНеТрогать\Kalkylyator\obj\Debug\Kalkylyator.exe
+C:\Users\HP\Desktop\ТутИграНеТрогать\Kalkylyator\obj\Debug\Kalkylyator.pdb
